@@ -2,7 +2,7 @@
 
 ![alt text](https://github.com/MateusCouto/PWTools-XML-list/blob/main/Screenshot.png?raw=true)
 
-+Requer o PHP 7  
++Requer o PHP 7
 +Banco de Dados MYSQL
 
 Lista.php: Os itens que você colocar para buscar no "pocket", "equipment" e "storehouse" dos chars retirados do Banco de Dados Oracle do Perfect World em formato XML.
